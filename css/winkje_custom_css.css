@@ -10,3 +10,27 @@ body {
     justify-content: center;
 
 }
+
+.col_centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.main_jumbo {
+    box-shadow: rgba(0, 0, 0, 0.34) 2px 2px 4px -1px;
+}
+
+.transparant {
+    background-color: #ffffff00!important;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0)!important;
+
+}
+
+#coordinates {
+    
+}
+
+
+#hbutton {
+    
+}
