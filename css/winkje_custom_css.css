@@ -1,0 +1,12 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.experiment_button {
+    margin: auto;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
